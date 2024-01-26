@@ -27,7 +27,7 @@ CREATE DATABASE gorm;
 
 ## Paso 4: Inicializamos la applicacion
 ```
-#se agrego un comando llamado air live change
+#ejecutamos el siguiente comando
 air
 
 ```
